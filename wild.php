@@ -1,0 +1,1 @@
+"Ceci est un test pour le challenge Git - Les fondamentaux pour la WCS"
